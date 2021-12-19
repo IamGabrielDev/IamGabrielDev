@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/41626780/146665637-973b0bb1-9415-453e-899b-2d8278517703.gif"/>
   <h3>Hi there, welcome to my profile! I am ... </h3>
 
-  <br/>
+
 
   <p> • 🔭 Working with <strong>ReactJS</strong> and <strong>VueJS</strong>;</p>
 
@@ -27,10 +27,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneezi&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
-
-  
-  ##
- 
 <div> 
  <h2>🔧 Technologies & Tools</h2>
 
