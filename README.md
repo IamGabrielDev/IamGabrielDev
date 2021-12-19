@@ -41,6 +41,19 @@
   ##
  
 <div> 
+ <h2>🔧 Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows/Linux-informational?&logo=windows&logo=linux&labelColor=0e0e0e&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?&logo=visual-studio-code&labelColor=0e0e0e&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?&logo=javascript&labelColor=0e0e0e&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?&logo=typescript&labelColor=0e0e0e&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-React/React_Native-informational?&logo=react&labelColor=da1e5b&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?&logo=python&labelColor=da1e5b&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DB-Postgresql-informational?&logo=postgresql&labelColor=da1e5b&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DB-MongoDB-informational?&logo=mongodb&labelColor=da1e5b&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
+</p>
+ 
 <img src="https://user-images.githubusercontent.com/41626780/146665737-9c4f91a1-6439-43e3-a7b8-f95f543af80a.gif" />
 
 
