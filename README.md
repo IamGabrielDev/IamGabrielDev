@@ -3,7 +3,22 @@
   <img src="https://user-images.githubusercontent.com/41626780/146664921-a4c67288-113e-4679-a1d9-1e4eacef04bf.gif"/>  
  <img src="https://user-images.githubusercontent.com/41626780/146665637-973b0bb1-9415-453e-899b-2d8278517703.gif"/>
 </div>
+<h2>👀 About me </h2> 
+<div>
+  <h3>Hi there, welcome to my profile! I am ... </h3>
 
+  <br/>
+
+  <p> • 🔭 Working with <strong>React</strong> and <strong>React Native</strong>;</p>
+
+  <p> • 🎓 Studying <strong>Computer Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
+
+  <p> • 📚 Learning more about <strong>React</strong>, <strong>Typescript</strong> and other stuff on the Front End world of knowledge (and a couple things about Back End too :P);</p>
+
+  <p> • 👾 Listening to music when coding and playing some games at spare time;</p>
+
+  <p> • 👥 At <a href="https://www.linkedin.com/in/lucasalme1da/">LinkedIn</a>!</p>
+</div>
 
 
   ##
