@@ -18,7 +18,7 @@
 
   <p> • 👾 Listening to music when coding and playing some games at spare time;</p>
 
-  <p> • 👥 At <a href="https://www.linkedin.com/in/gabriel-oliveira-33891115a/" target="_blank">LinkedIn</a>!</p>
+  <p> • 👥 At <a href="https://www.linkedin.com/in/gabriel-oliveira-33891115a/" target="blank">LinkedIn</a>!</p>
 </div>
 
 
