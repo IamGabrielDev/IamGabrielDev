@@ -48,3 +48,5 @@
    ![Snake animation](https://github.com/sneezi/sneezi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<h2>🧪 My Projects</h2>
+<h3 align="center">⬇ Check out my projects below! ⬇</h3>
