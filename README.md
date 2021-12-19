@@ -10,9 +10,9 @@
 
   <br/>
 
-  <p> • 🔭 Working with <strong>React</strong> and <strong>React Native</strong>;</p>
+  <p> • 🔭 Working with <strong>ReactJS</strong> and <strong>VueJS</strong>;</p>
 
-  <p> • 🎓 Studying <strong>Computer Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
+  <p> • 🎓 Studying <strong>Software Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
 
   <p> • 📚 Learning more about <strong>React</strong>, <strong>Typescript</strong> and other stuff on the Front End world of knowledge (and a couple things about Back End too :P);</p>
 
