@@ -39,8 +39,7 @@
   <img src="https://img.shields.io/badge/DB-Postgresql-informational?&logo=postgresql&labelColor=da1e5b&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DB-MongoDB-informational?&logo=mongodb&labelColor=da1e5b&logoColor=f5f7fb&color=f5f7fb&style=for-the-badge"/>
 </p>
- 
-<img src="https://user-images.githubusercontent.com/41626780/146665737-9c4f91a1-6439-43e3-a7b8-f95f543af80a.gif" />
+  
 
 
  
