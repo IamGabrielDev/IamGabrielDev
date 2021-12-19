@@ -20,6 +20,7 @@
 
   <p> • 👥 At <a href="https://www.linkedin.com/in/gabriel-oliveira-33891115a/" target="blank">LinkedIn</a>!</p>
 </div>
+
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneezi&show_icons=true&theme=radical"/>
