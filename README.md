@@ -13,7 +13,7 @@
 
   <p> • 🎓 Studying <strong>Software Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
 
-  <p> • 📚 Learning more about <strong>React</strong>, <strong>Typescript</strong>, <strong>NextJs</strong>, <strong>Material-UI</strong>, <strong>AntDesign</strong>, <strong>Stiled-Components</strong> e <strong>VueJs</strong>, <strong>Vuex</strong>, <strong>NuxtJs</strong>, <strong>Jest</strong>, <strong>Tailwind CSS</strong>;</p>
+  <p> • 📚 Learning more about <strong>React</strong>, <strong>Typescript</strong>, <strong>NextJs</strong>, <strong>Material-UI</strong>, <strong>AntDesign</strong>, <strong>Styled-Components</strong> e <strong>VueJs</strong>, <strong>Vuex</strong>, <strong>NuxtJs</strong>, <strong>Jest</strong>, <strong>Tailwind CSS</strong>;</p>
 
   <p> • 👾 Listening to music when coding and playing some games at spare time;</p>
 
