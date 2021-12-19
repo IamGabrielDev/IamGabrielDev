@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://user-images.githubusercontent.com/41626780/146664898-9e2113fa-0650-45a0-8216-9611bd1c687f.gif"
+  <a href="https://user-images.githubusercontent.com/41626780/146664898-9e2113fa-0650-45a0-8216-9611bd1c687f.gif"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneezi&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneezi&layout=compact&langs_count=7&theme=radical"/>
