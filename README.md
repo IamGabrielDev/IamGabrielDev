@@ -15,7 +15,7 @@
 
   <p> • 📚 Learning more about <strong>React</strong>, <strong>Typescript</strong>, <strong>NextJs</strong>, <strong>Material-UI</strong>, <strong>AntDesign</strong>, <strong>Styled-Components</strong> e <strong>VueJs</strong>, <strong>Vuex</strong>, <strong>NuxtJs</strong>, <strong>Jest</strong>, <strong>Tailwind CSS</strong>;</p>
 
-  <p> • 👾 Listening to music when coding and playing some games at spare time;</p>
+  <p> • 👾 Listening to music when coding and live coding at Twitch.tv;</p>
 
   <p> • 👥 At <a href="https://www.linkedin.com/in/gabriel-oliveira-33891115a/" target="blank">LinkedIn</a>!</p>
 </div>
