@@ -1,5 +1,5 @@
 
-<h2>👀 About me </h2> 
+<h2>About me </h2> 
 <div>
   <img src="https://user-images.githubusercontent.com/41626780/146665637-973b0bb1-9415-453e-899b-2d8278517703.gif"/>
   <h3>Hi there, welcome to my profile! I am ... </h3>
