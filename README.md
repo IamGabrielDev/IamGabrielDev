@@ -6,11 +6,11 @@
 
 
 
-  <p> • 🔭 Working with <strong>ReactJS</strong> and <strong>VueJS</strong>;</p>
+  <p> • 🔭 Working with <strong>Typescript(React.js)</strong> and <strong>Kotlin(Spring Boot)</strong>;</p>
 
   <p> • 🎓 Studying <strong>Software Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
 
-  <p> • 📚 Learning more about <strong>React</strong>, <strong>Typescript</strong>, <strong>NextJs</strong>, <strong>Material-UI</strong>, <strong>AntDesign</strong>, <strong>Styled-Components</strong> e <strong>VueJs</strong>, <strong>Vuex</strong>, <strong>NuxtJs</strong>, <strong>Jest</strong>, <strong>Tailwind CSS</strong>;</p>
+  <p> • 📚 Learning the React.js ecosystem, Next.js and Unit testing, integration and front-end end2end using jest, cypress and react-testing-library>
 
   <p> • 👾 Listening to music and when live coding at Twitch.tv;</p>
 
