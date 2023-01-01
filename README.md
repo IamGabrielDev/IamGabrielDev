@@ -12,7 +12,7 @@
 
   <p> • 📚 Learning the React.js ecosystem, Next.js and Unit testing, integration and front-end end2end using jest, cypress and react-testing-library>
 
-  <p> • 👾 Listening to music and when live coding at Twitch.tv;</p>
+  <p> • 👾 Listening to music and when live coding at <a href="https://www.twitch.tv/iamgabrieldev">Twitch.tv</a>;</p>
 
   <p> • 👥 At <a href="https://www.linkedin.com/in/gabriel-oliveira-33891115a/" target="blank">LinkedIn</a>!</p>
 </div>
