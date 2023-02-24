@@ -6,7 +6,7 @@
 
 
 
-  <p> • 🔭 Working with <strong>Typescript ( React.js, Next.js & Nest.js )</strong> and <strong>Kotlin ( Spring Boot & Android )</strong>;</p>
+  <p> • 🔭 Working with <strong>Typescript ( React.js, Next.js & Nest.js )</strong> and <strong>Java 17 ( Spring Boot & Android )</strong>;</p>
 
   <p> • 🎓 Studying <strong>Software Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
 
